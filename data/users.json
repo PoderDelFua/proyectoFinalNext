@@ -1,0 +1,56 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "email": "lizarragaiker0@gmail.com",
+    "edad": "22",
+    "ciudad": "Almeria",
+    "intereses": "Viajes",
+    "permiteRecibirOfertas": true
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "email": "lizarragaiker9@gmail.com",
+    "edad": "22",
+    "ciudad": "Almeria",
+    "intereses": "Viajes",
+    "permiteRecibirOfertas": true
+  },
+  {
+    "username": "user3",
+    "password": "pass3",
+    "email": "lizarragaiker6@gmail.com",
+    "edad": "22",
+    "ciudad": "Almeria",
+    "intereses": "Viajes",
+    "permiteRecibirOfertas": true
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "email": "lizarragaiker4@gmail.com",
+    "edad": "22",
+    "ciudad": "Almeria",
+    "intereses": "Viajes",
+    "permiteRecibirOfertas": true
+  },
+  {
+    "username": "Eugenio",
+    "email": "lizarragaiker4@gmail.com",
+    "password": "1234",
+    "edad": "22",
+    "ciudad": "Almeria",
+    "intereses": "Viajes",
+    "permiteRecibirOfertas": true
+  },
+  {
+    "username": "Antonio",
+    "email": "lizarragaiker2@gmail.com",
+    "password": "1234",
+    "edad": "55",
+    "ciudad": "Almeria",
+    "intereses": "Viajes",
+    "permiteRecibirOfertas": true
+  }
+]

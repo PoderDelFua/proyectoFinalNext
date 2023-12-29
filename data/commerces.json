@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1b5bb519-6fb2-4330-a421-cbd43fad89db",
+    "name": "Ignacio Lizarraga",
+    "cif": "463463",
+    "address": "52351241254",
+    "email": "lizarragaiker4@gmail.com",
+    "phone": "6541345124",
+    "password": "1111",
+    "ciudad": "Maddrid",
+    "scoring": "2",
+    "actividad": "AD",
+    "titulo": "52",
+    "resumen": "dsfs",
+    "textos": "24124",
+    "fotos": "logouser2.jpg",
+    "reseñas": [],
+    "numeroPuntuaciones": 0,
+    "reviews": [
+      {
+        "review": "Genial, una experiencia agradable",
+        "rating": 4,
+        "date": "2023-12-28T02:27:13.603Z"
+      }
+    ]
+  },
+  {
+    "id": "7c232db4-bad6-4062-ae2d-2214539d9ebc",
+    "name": "Iker Lizarraga",
+    "cif": "124",
+    "address": "Fernando Urkia 41",
+    "email": "lizarragaiker1@gmail.com",
+    "phone": "51357625352",
+    "ciudad": "Almeria",
+    "scoring": 0,
+    "password": "1234",
+    "actividad": "Viajes",
+    "titulo": "52",
+    "resumen": "adsfas",
+    "textos": "fasf",
+    "fotos": "asf",
+    "numeroPuntuaciones": 0,
+    "reseñas": []
+  },
+  {
+    "id": "1cb0492a-7241-4e7d-aa0d-46ece7b455a6",
+    "name": "Iker Lopez",
+    "cif": "155",
+    "address": "Ferraz 17",
+    "email": "lizarragaiker2@gmail.com",
+    "phone": "12412312",
+    "ciudad": "Almeria",
+    "scoring": 0,
+    "password": "1234",
+    "actividad": "Peleas",
+    "titulo": "1234",
+    "resumen": "fdsfsd",
+    "textos": "23r53",
+    "fotos": "logouser1.jpg",
+    "numeroPuntuaciones": 0,
+    "reseñas": []
+  }
+]
